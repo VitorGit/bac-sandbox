@@ -15,7 +15,7 @@ K - Make bacteria transparent (very useful to vizualize large numbers), <br>
 J - Show nutrition bar. <br>
 L - Show lines indicanting the destination of the bacteria. <br>
 C - clear screen. <br>
-
+-----------------------------------------------------------------------------------------------------------------
 The .exe file and related .dlls can be found at the bac-sandbox folder. <br>
 
 The simulation was made with Lua and rendered with Love2D. <br>
